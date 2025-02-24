@@ -28,8 +28,8 @@ public class Week1 implements  IWindowListener  {
 	private float[] vertices;
 	private int vertexBuffer;
 	
-	private int screenWidth = 800;
-	private int screenHeight = 800;
+	private int screenWidth = 500;
+	private int screenHeight = 500;
 	private Scene scene;
 
 
